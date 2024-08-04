@@ -1,0 +1,19 @@
+.Filter {
+    margin-bottom: 20px;
+    width: 300px;
+}
+
+.Filter label {
+    font-weight: bold;
+    color: #555;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.Filter input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 100%;
+    font-size: 1rem;
+}
